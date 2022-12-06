@@ -33,7 +33,7 @@ const delay = (interval) => {
 // process.exit()
 //});
 
-let currentTime = 770;
+let currentTime = 0;
 
 (async () => {
     while (true) {
